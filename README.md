@@ -3,7 +3,10 @@
 
 
 
-![InventoryUI (1)](https://github.com/user-attachments/assets/665a3b7b-17e7-44ae-b537-9e2c7e104153)
+![InventoryUI (2)](https://github.com/user-attachments/assets/b8b56a4d-1cd0-424d-b763-46445f116ab2)
+
+
+
 
 
 
