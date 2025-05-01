@@ -1,5 +1,11 @@
 # Inventory System (Drag-and-Drop UI)
-![InventoryUI](https://github.com/user-attachments/assets/79e39ed8-c392-4a04-810d-20d61db6f5ad)
+
+
+
+
+![InventoryUI (2)](https://github.com/user-attachments/assets/b8b56a4d-1cd0-424d-b763-46445f116ab2)
+
+
 
 
 
